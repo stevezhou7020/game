@@ -1,0 +1,86 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "homeJoin",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.5166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "paths": {
+      "tag": {
+        "props": {}
+      },
+      "star1": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0.6
+            },
+            {
+              "frame": 2.5,
+              "value": 0.8
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.6
+            },
+            {
+              "frame": 2.5,
+              "value": 0.8
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 155
+            },
+            {
+              "frame": 2.5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "star2": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 2.5166666666666666,
+              "value": 0.6
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 2.5166666666666666,
+              "value": 0.6
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 2.5166666666666666,
+              "value": 155
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

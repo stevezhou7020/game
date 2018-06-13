@@ -1,0 +1,16 @@
+{
+  "collision-matrix": [
+    [
+      true
+    ]
+  ],
+  "excluded-modules": [
+    "Spine Skeleton",
+    "DragonBones",
+    "StudioComponent"
+  ],
+  "group-list": [
+    "default"
+  ],
+  "start-scene": "current"
+}

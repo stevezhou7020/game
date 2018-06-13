@@ -1,0 +1,17 @@
+{
+  "excludeScenes": [],
+  "includeAnySDK": true,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "bbwnn.game.com",
+  "startScene": "4b7b3d01-f478-4658-86c1-9ad4613ac363",
+  "title": "BWNN",
+  "webOrientation": "landscape"
+}

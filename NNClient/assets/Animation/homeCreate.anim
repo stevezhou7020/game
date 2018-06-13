@@ -1,0 +1,185 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "homeCreate",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.7,
+  "sample": 60,
+  "speed": 1.3,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "tag": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0.6
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 0.8
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": 0.6
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.6
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 0.8
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": 0.6
+            }
+          ]
+        }
+      },
+      "star1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 155
+            },
+            {
+              "frame": 1.35,
+              "value": 200
+            },
+            {
+              "frame": 2.683333333333333,
+              "value": 155
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0.4
+            },
+            {
+              "frame": 1.35,
+              "value": 0.7
+            },
+            {
+              "frame": 2.683333333333333,
+              "value": 0.4
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.5
+            },
+            {
+              "frame": 1.35,
+              "value": 0.7
+            },
+            {
+              "frame": 2.683333333333333,
+              "value": 0.4
+            }
+          ]
+        }
+      },
+      "star2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 200
+            },
+            {
+              "frame": 1.35,
+              "value": 255
+            },
+            {
+              "frame": 2.683333333333333,
+              "value": 200
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0.6
+            },
+            {
+              "frame": 1.35,
+              "value": 0.4
+            },
+            {
+              "frame": 2.683333333333333,
+              "value": 0.6
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.6
+            },
+            {
+              "frame": 1.35,
+              "value": 0.4
+            },
+            {
+              "frame": 2.683333333333333,
+              "value": 0.6
+            }
+          ]
+        }
+      },
+      "star3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 155
+            },
+            {
+              "frame": 1.35,
+              "value": 200
+            },
+            {
+              "frame": 2.7,
+              "value": 155
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0.7
+            },
+            {
+              "frame": 1.35,
+              "value": 0.9
+            },
+            {
+              "frame": 2.7,
+              "value": 0.7
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.7
+            },
+            {
+              "frame": 1.35,
+              "value": 0.9
+            },
+            {
+              "frame": 2.7,
+              "value": 0.7
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

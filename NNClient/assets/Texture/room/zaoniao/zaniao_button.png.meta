@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c026761c-ef11-4437-bcc4-18a52f840fc0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "zaniao_button": {
+      "ver": "1.0.3",
+      "uuid": "e561d792-13a9-4413-b9a1-26df4c068b01",
+      "rawTextureUuid": "c026761c-ef11-4437-bcc4-18a52f840fc0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 30,
+      "height": 22,
+      "rawWidth": 30,
+      "rawHeight": 22,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

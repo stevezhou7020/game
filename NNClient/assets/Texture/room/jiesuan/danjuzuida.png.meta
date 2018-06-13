@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "80941eea-f1b0-44f8-bd9f-2f47c309492f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "danjuzuida": {
+      "ver": "1.0.3",
+      "uuid": "6f6afa4a-a001-4f9a-8316-022354446ba0",
+      "rawTextureUuid": "80941eea-f1b0-44f8-bd9f-2f47c309492f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 103,
+      "height": 24,
+      "rawWidth": 103,
+      "rawHeight": 24,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
